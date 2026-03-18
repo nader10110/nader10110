@@ -62,14 +62,20 @@ I focus on:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nader10110&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&hide=contribs,prs"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nader10110&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=nader10110&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00fff5&icon_color=ff2079&text_color=00fff5&hide=contribs,prs&rank_icon=github&border_color=00fff5"/>
+&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nader10110&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00fff5&text_color=00fff5"/>
 
 </div>
 
 <div align="center">
-<img width="65%" src="https://streak-stats.demolab.com?user=nader10110&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=58a6ff"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=nader10110&theme=neon-dark&hide_border=true&background=000000&ring=00fff5&fire=ff2079&currStreakLabel=00fff5&sideLabels=ff2079&dates=888888&sideNums=00fff5&stroke=00fff5"/>
 </div>
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nader10110&bg_color=000000&color=00fff5&line=ff2079&point=00fff5&hide_border=true&area=true&area_color=0d2233"/>
+</div>
+
 
 ---
 
