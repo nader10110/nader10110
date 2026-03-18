@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Transforming+raw+data+into+clear+decisions+📊;Self-taught+%7C+Engineering+background+%7C+Egypt+🇪🇬;Open+to+full-time+%7C+freelance+%7C+remote+roles+🚀" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Transforming+raw+data+into+clear+decisions+%F0%9F%93%8A;Self-taught+%7C+Engineering+background+%7C+Egypt+%F0%9F%87%AA%F0%9F%87%AC;Open+to+full-time+%7C+freelance+%7C+remote+roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,8 +21,7 @@
 
 ---
 
-<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdyeGZ6aGZ6aGZ6aGZ6aGZ6aGZ6aGZ6aGZ6aGZ6aGZ6aGZ6aHomd&ridcb=1" alt="data analysis gif"/>
-<img align="right" width="340" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="data gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="data gif"/>
 
 ## 👨‍💻 About Me
 
@@ -83,10 +82,10 @@ nader = {
 
 | Skill | Level | Details |
 |-------|-------|---------|
-| 🐍 **Python** | ████████░░ Advanced | Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn |
-| 🗄️ **SQL** | ███████░░░ Intermediate | Subqueries · CTEs · Window Functions · JOINs |
-| 📊 **Power BI** | ████████░░ Advanced | DAX · Data Modeling · Power Query · RLS · Drill-through |
-| 📋 **Excel** | ████████░░ Advanced | Pivot Tables · Power Query · Advanced Formulas |
+| 🐍 **Python** | `████████░░` Advanced | Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn |
+| 🗄️ **SQL** | `███████░░░` Intermediate | Subqueries · CTEs · Window Functions · JOINs |
+| 📊 **Power BI** | `████████░░` Advanced | DAX · Data Modeling · Power Query · RLS · Drill-through |
+| 📋 **Excel** | `████████░░` Advanced | Pivot Tables · Power Query · Advanced Formulas |
 
 </div>
 
@@ -114,14 +113,15 @@ nader = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=nader10110&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=nader10110&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&hide=contribs"/>
+
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nader10110&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
 
 </div>
 
 <div align="center">
 
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=nader10110&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=58a6ff"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=nader10110&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=58a6ff"/>
 
 </div>
 
@@ -138,7 +138,7 @@ nader = {
 <div align="center">
 
 <a href="https://nader-portfolio.lovable.app/#home">
-  <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0d1117?style=for-the-badge&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-161b22?style=for-the-badge" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/naderemam/">
@@ -157,6 +157,6 @@ nader = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=110&section=footer&fontSize=16&fontColor=adbac7&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=110&section=footer&animation=fadeIn"/>
 
 </div>
